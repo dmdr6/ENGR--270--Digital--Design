@@ -7,8 +7,8 @@ end NOT_Gate_tb;
 architecture Behavior of NOT_Gate_tb is
 
 	-- Signal declarations
-    A : std_logic := '0';
-    Y : std_logic;
+    signal A : std_logic := '0';
+    signal Y : std_logic;
 
 begin
 
