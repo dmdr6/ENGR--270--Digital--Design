@@ -1,4 +1,4 @@
-# VHDL Logic Gates Collection ⚡
+# VHDL Logic Gates Collection 
 
 This directory contains pure VHDL implementations and corresponding testbenches for all 7 standard digital logic gates.
 
