@@ -30,7 +30,7 @@ begin
         Sel <= '0' ; A <= '0' ; B <= '0';
         wait for 10 ns;
         
-    	-- Case 2: Sel = 0, A = 0, 1 = 0 -> Output: Y = 0
+    	-- Case 2: Sel = 0, A = 0, B = 1 -> Output: Y = 0
         Sel <= '0' ; A <= '0' ; B <= '1';
         wait for 10 ns;
 
