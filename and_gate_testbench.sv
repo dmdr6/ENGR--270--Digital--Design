@@ -25,7 +25,7 @@ module and_gate_tb;
     #10;
     
     // Case 3: a = 1, b = 0 -> y = 0
-    a = 1; b = 1;
+    a = 1; b = 0;
     #10;
     
     // Case 4: a = 1, b = 1 -> y = 1
