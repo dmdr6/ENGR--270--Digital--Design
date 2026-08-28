@@ -8,4 +8,4 @@ module and_gate(
   // Continuous assignment modeling the AND logic
   assign y = a & b;
 
-endmodule;
+endmodule
