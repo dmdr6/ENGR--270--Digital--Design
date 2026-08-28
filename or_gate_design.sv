@@ -1,5 +1,5 @@
 // 2-input OR Gate Design
-module or_gate(
+module or_gate (
   input logic a,
   input logic b,
   output logic y
