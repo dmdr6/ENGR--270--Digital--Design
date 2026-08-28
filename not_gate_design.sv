@@ -1,5 +1,5 @@
 // NOT Gate Design
-module NOT_Gate (
+module not_gate (
   input logic a,
   output logic y
 );
