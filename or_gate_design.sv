@@ -5,7 +5,7 @@ module or_gate (
   output logic y
 );
   
-  // Continuous assignment modeling the AND logic
+  // Continuous assignment modeling the OR logic
   assign y = a | b;
 
 endmodule
