@@ -6,6 +6,6 @@ module xnor_gate (
 );
   
   // Continuous assignment modeling the XNOR logic
-  assign y = ~ (a ^ b);
+  assign y = a ~^ b;
   
 endmodule
