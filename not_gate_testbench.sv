@@ -1,7 +1,7 @@
 // NOT Gate Testbench
 module not_gate_tb;
   
-  // Testbench signals to drive inputs and observe and observe outputs
+  // Testbench signals to drive inputs and observe outputs
   logic a;
   logic y;
   
