@@ -1,7 +1,7 @@
 // 2-input AND Gate Testbench
 module and_gate_tb;
   
-  // Testbench signals to drive inputs and observe and observe outputs
+  // Testbench signals to drive inputs and observe outputs
   logic a;
   logic b;
   logic y;
